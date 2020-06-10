@@ -1,8 +1,8 @@
 import React from "react";
-import "../styles/Portfolio.css";
+import "../styles/portfolio.css";
 import Travelapp from './travel app.png'
 import Dayplanner from './day planner.png'
-import Horiseon from './Untitled.png'
+import Horiseon from './horiseon website.png'
 import Project2 from './project2.png'
 import EmployeeHw from './employeehw.png'
 

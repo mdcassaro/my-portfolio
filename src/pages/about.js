@@ -1,7 +1,7 @@
 import React from "react";
 import myPic from './picture of me.jpg'
 import "../styles/bootstrap.min.css"
-import "../styles/About.css";
+import "../styles/about.css";
 
 
 
