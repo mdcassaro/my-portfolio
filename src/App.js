@@ -1,7 +1,7 @@
 import React from 'react';
-import Navbar from "./components/Navbar";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
-import Wrapper from "./components/Wrapper";
+import Navbar from "./components/navbar";
+import { BrowserRouter, Route } from "react-router-dom";
+import Wrapper from "./components/wrapper";
 import About from "./pages/about";
 import Contact from "./pages/contact";
 import Portfolio from "./pages/portfolio";

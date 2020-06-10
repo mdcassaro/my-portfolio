@@ -1,10 +1,11 @@
 import React from "react";
 import "../styles/portfolio.css";
-import Travelapp from './travel app.png'
+import Travelapp from './project 1.png'
 import Dayplanner from './day planner.png'
 import Horiseon from './horiseon website.png'
 import Project2 from './project2.png'
 import EmployeeHw from './employeehw.png'
+
 
 
 function Portfolio(props){
