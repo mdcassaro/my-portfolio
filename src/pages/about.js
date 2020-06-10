@@ -26,7 +26,7 @@ function About(props){
                         </p>
                         <div className="row">
                         <div class="col align-self-center">
-                        <a href="https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aacae761d-9ce9-4c7a-8419-066358db3834"  target="noopener noreferer" class="btn btn-primary">Click to view my Resume</a>
+                        <a href="https://1drv.ms/w/s!AoR_fU9xJ-UEhFwapchrPdvI6Kr6?e=cRjd2w"  target="noopener noreferer" class="btn btn-primary">Click to view my Resume</a>
                         </div>
                         </div>
                         
